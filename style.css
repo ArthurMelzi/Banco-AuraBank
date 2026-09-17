@@ -1,3 +1,23 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    font-family: 'Inter', sans-serif;
+}
+
 body {
-  background-color: D1FFE6
+    background-color: #D1FFE6;
+    display: flex;
+    justify-content: center;
+}
+
+.fundo {
+    background-color: white;
+    weight: 60px;
+    margin-top: 10px;
+    padding: 30px;
+    border-radius: 12px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    line-height: 1.5px;
 }
