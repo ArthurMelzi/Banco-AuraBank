@@ -1,0 +1,1 @@
+-- TODO: Criar as tables: clientes, enderecos, contas, cartoes, transacoes, beneficiarios, transferencias, faturas, pagamentos, usuarios.
